@@ -20,7 +20,7 @@ The pipeline combines:
 - TimeSeries-aware cross-validation
 - Probability-level blending (stacking)
 
-### Core Skills Demonstrated:
+## Core Skills Demonstrated:
 Time-Series Analysis · Feature Engineering · Ensemble Learning · Model Evaluation · Backtesting · Applied Machine Learning
 
 
@@ -108,3 +108,4 @@ time-series-ensemble-classification/
 └── README.md
 
 ```
+
