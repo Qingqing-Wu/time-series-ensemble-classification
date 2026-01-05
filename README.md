@@ -20,7 +20,7 @@ The pipeline combines:
 - TimeSeries-aware cross-validation
 - Probability-level blending (stacking)
 
-Core Skills Demonstrated:
+### Core Skills Demonstrated:
 Time-Series Analysis · Feature Engineering · Ensemble Learning · Model Evaluation · Backtesting · Applied Machine Learning
 
 
@@ -106,4 +106,5 @@ Decision thresholds can be adjusted to support cost-sensitive analysis.
 time-series-ensemble-classification/
 ├── time_series_modeling.py
 └── README.md
+
 ```
